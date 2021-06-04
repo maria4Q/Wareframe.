@@ -1,0 +1,30 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+.padre{
+	width: 382px;
+	height: 706px;
+	background-color: #5dcea3;
+	margin: 15px 15px 15px 15px;
+	padding: 40px;
+	border-radius: 35px;
+	border: 1px solid #72c0a6;
+
+}
+.item-1{
+	background-color: #e9e9e9;
+	width: 50px;
+	height: 50px;
+	border-radius: 100%;
+	border: 1px solid #79bfa5;
+}
+.item-2{
+	background-color: #eaeaea; 
+	margin-top: 510px;
+	width: 305px;
+	height: 60px;
+	border-radius: 20px;
+	border: 1px solid #79bfa5;
+}
